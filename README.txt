@@ -1,3 +1,6 @@
+Sample Spring MVC application
+
+
 To build:
 
 mvn package -  creates a war to deploy with Tomcat
@@ -12,7 +15,4 @@ To retrieve orders: (path ends with the userId)
 curl localhost:8080/Order-1/rest/orders/users/1
 curl localhost:8080/Order-1/rest/orders/users/2
 
-
-Notes:
-I would love to discuss the code with you anytime today.
 
